@@ -1,2 +1,2 @@
 # onjava8-examples-maven
-onjava8-example of maven
+maven of onjava8-example
